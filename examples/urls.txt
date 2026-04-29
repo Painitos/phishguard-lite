@@ -1,0 +1,5 @@
+https://www.google.com/account/about/
+http://paypal-login.example.com/verify
+https://xn--paypa1-l2c.example/security-update
+http://192.168.1.10/login
+https://bit.ly/reset-wallet
